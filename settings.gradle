@@ -3,4 +3,5 @@ include 'number-service'
 include 'discovery-service'
 include 'text-service'
 include 'test-module'
+include 'config-service'
 
